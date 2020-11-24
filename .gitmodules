@@ -1,0 +1,3 @@
+[submodule "childModule"]
+	path = childModule
+	url = git@github.com:joyment2010/childModule.git
